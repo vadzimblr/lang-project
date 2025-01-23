@@ -1,0 +1,9 @@
+xdebug.cli_color = 1
+xdebug.trigger_value = 1
+xdebug.client_host = XDEBUG_CLIENT_HOST
+xdebug.client_port = 9003
+xdebug.mode = debug
+xdebug.start_with_request = yes
+xdebug.log_level = 7
+xdebug.output_dir = /tmp
+xdebug.profiler_output_name = cachegrind.out.%p.%u.%R

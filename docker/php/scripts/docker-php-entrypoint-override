@@ -1,0 +1,6 @@
+#!/bin/sh
+
+set -eu
+
+# starting the original entry point
+exec docker-php-entrypoint "$@"
